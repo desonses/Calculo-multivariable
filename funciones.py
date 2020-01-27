@@ -4,6 +4,10 @@
 Created on Sun Jan  6 15:23:13 2019
 
 @author: fredy
+
+UAEM
+
+desonses@gmail.com
 """
 
 import math
