@@ -3,6 +3,10 @@
 Created on Sat Nov 24 12:58:04 2018
 
 @author: Fredy
+
+UAEM
+
+desonses@gmail.com
 """
 
 import numpy
