@@ -2,8 +2,13 @@
 """
 Created on Fri Nov 23 17:26:19 2018
 
-@author: Fredy
+@author: Fredy M
+
+UAEM
+
+desonses@gmail.com
 """
+
 
 import funciones
     
