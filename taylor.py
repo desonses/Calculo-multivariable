@@ -5,6 +5,9 @@ Created on Sat Dec  8 13:43:13 2018
 
 @author: Fredy
 
+UAEM
+
+desonses@gmail.com
 """
 from sympy import diff, Symbol, sin, cos
 import math
